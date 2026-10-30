@@ -1,11 +1,8 @@
 payload:
-  - IP-CIDR,64.90.3.34/32,no-resolve
-  - IP-CIDR,155.117.155.14/32,no-resolve
-  - IP-CIDR,31.57.172.242/32,no-resolve
-  - IP-CIDR,154.36.133.204/32,no-resolve
   - DST-PORT,41641,no-resolve
   - DOMAIN-SUFFIX,hccb.cc,no-resolve
   - DOMAIN-SUFFIX,hzcjtz.com,no-resolve
   - DOMAIN-SUFFIX,sqlark.com,no-resolve
   - DOMAIN-SUFFIX,hzjuxiu.com,no-resolve
   - DOMAIN-SUFFIX,hydsoft.com,no-resolve
+  - DOMAIN-SUFFIX,ebm360.com,no-resolve
